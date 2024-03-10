@@ -1,2 +1,1 @@
-A chatbot using Gemini-pro
-
+A List of projects created using gemini
